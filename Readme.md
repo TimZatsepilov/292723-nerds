@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/15/user/292723).
-* Наставник: `Неизвестно`.
+* Студент: [Тимофей Зацепилов](https://up.htmlacademy.ru/htmlcss/15/user/292723).
+* Наставник: Илья Борисенко https://htmlacademy.ru/htmlcss/15/user/39390.
 
 ---
 
